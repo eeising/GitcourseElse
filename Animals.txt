@@ -1,0 +1,18 @@
+Donkey
+Shark
+Dolphin
+Cat
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Barracuda
+Dog
+=======
+Baracuda
+>>>>>>> parent of c8476df... Added dog to animals.txt
+=======
+Baracuda
+>>>>>>> parent of c8476df... Added dog to animals.txt
+=======
+Baracuda
+>>>>>>> parent of c8476df... Added dog to animals.txt
